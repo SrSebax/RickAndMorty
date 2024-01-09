@@ -1,4 +1,11 @@
-# rickandmortyapp
+# Rick And Morty 
+
+## Home
+![RickAndMorty_Home](https://github.com/SrSebax/rick-and-morty/assets/111817271/b15b4ef7-9ac6-40f8-8136-fb8a0f6cf4c0)
+
+## Character
+![RickAndMorty_Character](https://github.com/SrSebax/rick-and-morty/assets/111817271/3314e526-f90e-4ce7-a9c7-f91759ce959f)
+
 
 A new Flutter project.
 
